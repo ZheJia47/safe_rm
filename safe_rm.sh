@@ -7,7 +7,7 @@ if [ $1 == '-f' ]; then
 else
     mv $@ $dir
 fi
-
+ 
 # todo: -h option
 
 #declare -i count=$#+1
