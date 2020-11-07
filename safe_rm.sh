@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=/Users/zhangzhejia14/.Trash # trash can pwd
+dir=/Users/zhangzhejia/.Trash # trash can pwd
 
 if [ $1 == '-f' ]; then
     rm $@
